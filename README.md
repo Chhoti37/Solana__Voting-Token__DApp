@@ -64,5 +64,7 @@ Handling Cross-Program Invocations (CPI) and token transfers.
 Connecting a modern React frontend to the blockchain using IDL.
 
 👩‍💻 Author
-Chhoti Kumari
+Developed with ❤️ by CHHOTI KUMARI
 B.Tech Student at Narula Institute of Technology
+
+⭐ If you like this project, please give it a Star!
